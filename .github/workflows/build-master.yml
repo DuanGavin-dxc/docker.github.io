@@ -2,6 +2,8 @@ on:
   push:
     branches:
       - master
+      # gh-mster-3 must be removed before merging this PR. It was added to test the pipeline.
+      - gh-mster-s3
 
 jobs:
   build-static-page:
