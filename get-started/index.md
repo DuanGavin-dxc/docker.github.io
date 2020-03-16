@@ -67,7 +67,7 @@ Welcome! We are excited that you want to learn Docker. The Docker Quickstart tra
 
 ## Docker concepts
 
-Docker is a platform for developers and sysadmins to **build, run, and share**
+Docker is a platform for developers and sysads to **build, run, and share**
 applications with containers. The use of containers to deploy applications
 is called _containerization_. Containers are not new, but their use for easily
 deploying applications is.
